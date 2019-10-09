@@ -11,4 +11,4 @@ detect and count the number of automobiles heading west on the Massachusetts tur
 in a sunny afternoon. This can be done by using the camera capabilities of the Raspberry Pi Zero W and
 a video processing algorithm.
 
-View Project Documentation pdf for more details.
+View EC463 Miniproject Report pdf for more details.
