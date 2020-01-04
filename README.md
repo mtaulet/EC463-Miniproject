@@ -1,4 +1,4 @@
-# EC463-Miniproject
+# Traffic Analyzer
 
 Climate change is a crucial problem in our generation and one factor that has a significant impact
 on it is air pollution. Air pollution is caused by factories, automobiles and aerosols. To prevent further
